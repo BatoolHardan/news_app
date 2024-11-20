@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:news_app_batool/views/home_view.dart';
+
+import 'package:news_app_batool/widgets/news_list_view_builder.dart';
 
 class CategoryView extends StatelessWidget {
   const CategoryView({super.key, required this.category});
